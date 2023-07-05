@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridwan Balogun</h1>
-<h3 align="center">a software engineer with a passion for building innovative and scalable solutions. I'm proficient in a variety of programming languages and technologies, including Python, JavaScript, React, and Node.js. I'm also experienced in working with cloud computing platforms like AWS and Azure.</h3>
+<h3 align="center">A software engineer with a passion for building innovative and scalable solutions. I'm proficient in a variety of programming languages and technologies, including JavaScript,Typescript, React, and Node.js. I'm also experienced with cybersecurity and Business Management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridbay&label=Profile%20views&color=0e75b6&style=flat" alt="ridbay" /> </p>
 
